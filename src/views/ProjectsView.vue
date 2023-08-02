@@ -267,7 +267,7 @@ export default {
         {
           name: "This Portfolio",
           description: "SPA created with Vue JS",
-          link: "https://yalandr.github.io/portfolio/",
+          link: "https://apollon-comet.github.io/Victor/",
           projectImage: "portfolio.jpg",
           projectMobileImage: "portfolio-mob.jpg",
           color: "color:var(--vue-color)",
