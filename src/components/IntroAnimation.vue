@@ -9,16 +9,16 @@
           <img src="../assets/img/technologies/react.png" alt="html" />
         </div>
         <div class="plane three">
-          <img src="../assets/img/technologies/css.png" alt="css" />
+          <img src="../assets/img/technologies/quasar.png" alt="css" />
         </div>
         <div class="plane four">
-          <img src="../assets/img/technologies/figma.png" alt="javascript" />
+          <img src="../assets/img/technologies/python.png" alt="javascript" />
         </div>
         <div class="plane five">
-          <img src="../assets/img/technologies/vue.png" alt="vue" />
+          <img src="../assets/img/technologies/AI.jpg" alt="vue" />
         </div>
         <div class="plane six">
-          <img src="../assets/img/technologies/nodejs.png" alt="jquery" />
+          <img src="../assets/img/technologies/rest.png" alt="jquery" />
         </div>
       </div>
     </div>

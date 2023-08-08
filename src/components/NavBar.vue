@@ -3,7 +3,7 @@
     <div class="navbar-intro">
       <div class="navbar-intro-avatar"></div>
       <h2 class="navbar-intro-name">Victor Knight</h2>
-      <h3 class="navbar-intro-position">Full-stack Developer</h3>
+      <h3 class="navbar-intro-position">AI & ML, Full-stack</h3>
     </div>
     <div id="nav" class="nav-menu">
       <router-link
@@ -112,7 +112,7 @@ export default {
   aspect-ratio: 1/1;
   border-radius: 50%;
   border: 5px solid var(--home-color);
-  background: url(../assets/img/victor.png) 0 0 no-repeat;
+  background: url(../assets/img/VIctor.jpg) 0 0 no-repeat;
   background-size: cover;
 }
 .navbar-intro-name {

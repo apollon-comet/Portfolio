@@ -35,7 +35,7 @@ export default {
           name: "telegram",
           text: "@sunshine",
           img: "telegram.png",
-          link: "https://telegram.me/sunshine0213",
+          link: "https://t.me/Sunshinee0213",
         },
         {
           name: "email",
@@ -45,9 +45,8 @@ export default {
         },
         {
           name: "skype",
-          text: "Skype",
+          text: "live:.cid.b21fa127df48be97",
           img: "skype.png",
-          link: "https://join.skype.com/invite/p9VlbPxHE9Vs",
         },
         {
           name: "Slack",

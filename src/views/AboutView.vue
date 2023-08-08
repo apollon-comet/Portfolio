@@ -3,7 +3,7 @@
     <div class="container">
       <h4 class="section-heading">About Me</h4>
       <p class="section-text">
-        <strong>Field of activity:</strong> Full-stack Developer
+        <strong>Field of activity:</strong> AI & ML, Full-stack developer
       </p>
       <p class="section-text">
         <strong>Educated at:</strong>
