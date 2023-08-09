@@ -112,7 +112,7 @@ export default {
   aspect-ratio: 1/1;
   border-radius: 50%;
   border: 5px solid var(--home-color);
-  background: url(../assets/img/VIctor.jpg) 0 0 no-repeat;
+  background: url(../assets/img/5.jpg) 0 0 no-repeat;
   background-size: cover;
 }
 .navbar-intro-name {
